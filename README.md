@@ -77,7 +77,7 @@ The AI uses the **Minimax Algorithm** to evaluate every possible future game sta
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/neon-tictactoe-ai.git
+git clone https://github.com/GANESH-NADKARNI/neon-tictactoe-ai.git
 cd neon-tictactoe-ai
 ```
 
